@@ -82,3 +82,4 @@ class UNet(nn.Module):
         x = self.deconv0(x)
         
         return x
+#tafin ana
